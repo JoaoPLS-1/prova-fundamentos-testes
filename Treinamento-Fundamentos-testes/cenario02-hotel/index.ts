@@ -11,7 +11,7 @@ import { validar } from '../framework-teste'
 // 6. Mínimo: 1 noite | Máximo: 30 noites
 // 7. Capacidade: quarto Standard até 2 hóspedes | quarto Luxo até 4 hóspedes
 
-// ==================== INTERFACES ====================
+
 
 interface IQuarto {
     id: number
